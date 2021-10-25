@@ -28,13 +28,8 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>sameer</name>
-        <url>http://3.85.13.168:8081/repository/hello/</url>
+        <name>TestRepo1</name>
+        <url>http://3.85.103.211:8081/repository/TestRepo1/</url>
         </repository>
-        <snapshotRepository>
-        <id>snap</id>
-        <name>snap</name>
-        <url>http://3.85.13.168:8081/repository/hello-snapshot/</url>
-        </snapshotRepository>
         </distributionManagement>
 	</project>
