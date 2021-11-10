@@ -2,9 +2,9 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h1>MOHAN very good boy<h1>
+	<h1>Hello world Web Project<h1>
 		<br>
-		<h1>mohan creat thist</h1>
+		<h1> creat thist</h1>
 		<br>
 		<h1>Sameer pady is hero for our gang</h1>
 		<br>
