@@ -118,8 +118,8 @@ under the License.
      |    -->
     <server>
       <id>nexus</id>
-      <username>admin</username>
-      <password>Nexus@123</password>
+      <username>${nexus_user}</username>
+      <password>${nexus_password}</password>
     </server>
 
 
