@@ -119,7 +119,7 @@ under the License.
     <server>
       <id>nexus</id>
       <username>admin</username>
-      <password>nexus@123</password>
+      <password>Nexus@123</password>
     </server>
 
 
