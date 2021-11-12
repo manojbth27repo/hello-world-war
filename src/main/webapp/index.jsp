@@ -4,14 +4,14 @@
 	<br>
 	<h1>Hello world Web Project Main<h1>
 		<br>
-		<h1>crete this</h1>
+		<h1>create this</h1>
 		<br>
 		<h1>Hello World Project</h1>
 		<br>
 		<h1>this is my pipeline</h1>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Hello World! Mohan & Sai</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
